@@ -101,7 +101,7 @@
                 const sheetName = workbook.SheetNames[0];
                 const sheet = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName]);
 
-                dataTable.innerHTML = ''; // Clear existing rows
+                dataTable.innerHTML = '';
 
                 sheet.forEach(row => {
                     const soal = row['Soal'] || 'Soal tidak tersedia';
@@ -119,7 +119,6 @@
             })
             .catch(error => console.error('Gagal memuat file:', error));
 
-        // Search functionality
         searchInput.addEventListener('input', () => {
             const filter = searchInput.value.toLowerCase();
             const rows = dataTable.getElementsByTagName('tr');

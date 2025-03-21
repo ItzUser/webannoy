@@ -1,1 +1,792 @@
+<script language="JavaScript">
+    document.addEventListener("contextmenu", function(e) {
+        e.preventDefault();
+    }, false);
+</script>
+		
+		<table border='1'>
+			<tr>
+				<td >No.</td>
+				<td  width='500px'>Soal</td>
+				<td >jenis</td>
+				<td >pilA</td>
+				<td >pilB</td>
+				<td >pilC</td>
+				<td >pilD</td>
+				<td >pilE</td>
+				<td >file</td>
+				<td >file1</td>
+				<td >fileA</td>
+				<td >fileB</td>
+				<td >fileC</td>
+				<td >fileD</td>
+				<td >fileE</td>
+				<td >jawab</td>
+				
+				
+			</tr>
+						
+					<tr>
+						<td>1</td>
+						<td> K3LH adalah pengertian tentang Program Kesehatan dan Keselamatan Kerja dan Lingkungan Hidup pada suatu perusahaan atau instansi lain yang memiliki banyak pekerja atau karyawan. Berikut ini yang BUKAN prinsip-prinsip yang harus dijalankan perusahaan dalam menerapkan keselamatan dan kesehatan kerja (K3) adalah&hellip;</td>
+						<td>1</td>
+						<td> Adanya APD (Alat Pelindung Diri) di tempat kerja</td>
+						<td> Adanya buku petunjuk penggunaan alat dan atau isyarat bahaya</td>
+						<td> Adanya daftar kecelakaan kerja  ditempat perusahaan</td>
+						<td> Adanya tempat kerja yang aman sesuai standar SSLK (syarat-syarat lingkungan kerja)</td>
+						<td> Adanya sarana dan prasarana yang lengkap ditempat kerja</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>2</td>
+						<td> Maksud dari pengertian K3LH adalah memahami dan menerapkan K3LH di setiap perusahaan. Adapun salah satu tujuan dari K3LH adalah&hellip;..</td>
+						<td>1</td>
+						<td> menciptakan suasana hubungan antar pimpinan dan karyawan menjadi sehat</td>
+						<td> menciptakan suasana ruangan yang bersahabat</td>
+						<td> menciptakan suasana kerja yang sehat, aman dan nyaman</td>
+						<td> menciptakan suasana lingkungan bersih dan teratur</td>
+						<td> menciptakan keuntungan perusahaan berlipat ganda</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>3</td>
+						<td> Dengan program K3LH, pekerja dan perusahaan bisa menikmati manfaatnya. Apakah manfaat K3LH bagi perusaahaan?</td>
+						<td>1</td>
+						<td> Akan tercipta hubungan yang lebih harmonis antara pemegang saham dan pimpinan perusahaan sehingga menghasilkan produk yang maksimal sesuai misi perusahaan</td>
+						<td> Akan tercipta hubungan yang lebih harmonis antara pemerintah  dan perusahaan  menghasilkan produk yang maksimal sesuai misi perusahaan</td>
+						<td> Akan tercipta hubungan yang lebih harmonis antara para pekerja dan perusahaan tempat mereka bekerja sehingga menghasilkan produk yang maksimal sesuai misi perusahaan</td>
+						<td> Perusahaan akan menjadi lebih bermutu dan sistematis untuk berkembang lebih cepat</td>
+						<td> Perusahaan akan menjadi lebih bermutu dan sistematis sesuai dengan harapan pimpinan perusahaan</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>4</td>
+						<td> Perhatikan tanda bahaya berikut ini!Bahaya yang timbul dari adanya peringatan seperti dibawah ini adalah&hellip;</td>
+						<td>1</td>
+						<td> Bahan tersebut bisa dapat menyebabkan penyakit mematikan seperti AIDS</td>
+						<td> Benda ini dapat mengeluarkan radiasi dan jika terpapar terlalu lama maka akan menyebabkan kanker</td>
+						<td> bahaya yang berasal dari benda-benda yang dapat membuat iritasi pada mata dan wajah</td>
+						<td> Tangan Anda akan kepanasan jika menyentuh benda tersebut dalam keadaan aktif atau menyala</td>
+						<td> bahaya yang berasal dari benda yang mudah meledak. Jauhkan benda tersebut dari api</td>
+						<td></td>
+						<td>174218751310.png</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>5</td>
+						<td> Perhatikan tanda bahaya berikut ini! Bahaya yang timbul dari adanya peringatan seperti dibawah ini adalah&hellip;</td>
+						<td>1</td>
+						<td> Bahan tersebut bisa dapat menyebabkan penyakit mematikan seperti AIDS</td>
+						<td> Benda ini dapat mengeluarkan radiasi dan jika terpapar terlalu lama maka akan menyebabkan kanker</td>
+						<td> bahaya yang berasal dari benda-benda yang dapat membuat iritasi pada mata dan wajah</td>
+						<td> Tangan Anda akan kepanasan jika menyentuh benda tersebut dalam keadaan aktif atau menyala</td>
+						<td> bahaya yang berasal dari benda yang mudah meledak. Jauhkan benda tersebut dari api</td>
+						<td></td>
+						<td>17421875135.png</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>6</td>
+						<td> Perhatikan tanda bahaya berikut ini!Bahaya yang timbul dari adanya peringatan seperti dibawah ini adalah&hellip;</td>
+						<td>1</td>
+						<td> Bahan tersebut bisa dapat menyebabkan penyakit mematikan seperti AIDS</td>
+						<td> Benda ini dapat mengeluarkan radiasi dan jika terpapar terlalu lama maka akan menyebabkan kanker</td>
+						<td> bahaya yang berasal dari benda-benda yang dapat membuat iritasi pada mata dan wajah</td>
+						<td> Tangan Anda akan kepanasan jika menyentuh benda tersebut dalam keadaan aktif atau menyala</td>
+						<td> bahaya yang berasal dari benda yang mudah meledak. Jauhkan benda tersebut dari api</td>
+						<td></td>
+						<td>17421875131.png</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>A</td>
+					</tr>
+				
+					<tr>
+						<td>7</td>
+						<td> K3LH Adalah Hal Penting dalam Pembangunan Usaha Atau Industri K3LH merupakan hal penting dalam membangun industri. Pertumbuhan dan pembangunan industri banyak menimbulkan masalah terhadap manusia di setiap negara. Contohnya adalah kecelakaan kerja, bermacam penyakit akibat kerja, dan dampak lingkungan dari adanya industri. Maka dari itu Pemerintah Indonesia mengeluarkan Undang &ndash; undang tentang K3LH yaitu&hellip;.</td>
+						<td>1</td>
+						<td> Undang-Undang Republik Indonesia Nomor 1 Tahun 1960 Tentang Keselamatan Kerja</td>
+						<td> Undang-Undang Republik Indonesia Nomor 1 Tahun 1970 Tentang Keselamatan Kerja</td>
+						<td> Undang-Undang Republik Indonesia Nomor 1 Tahun 1980 Tentang Keselamatan Kerja</td>
+						<td> Undang-Undang Republik Indonesia Nomor 1 Tahun 1990 Tentang Keselamatan Kerja</td>
+						<td> Undang-Undang Republik Indonesia Nomor 1 Tahun 1950 Tentang Keselamatan Kerja</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>8</td>
+						<td> Dalam melakukan perakitan komputer kita harus memperhatikan kesehatan, keselamatan dan lingkungan hidup disekitar kita. Dalam hal ini yang harus kita perhatikan adalah&hellip;.Kecuali..</td>
+						<td>1</td>
+						<td> Kesiapan mental dan skill</td>
+						<td> Alat-alat yang membantu dalam pengerjaanya</td>
+						<td> Kondisi ruangan yang dingin dan nyaman</td>
+						<td> Alal bantu yang mudah digunakan</td>
+						<td> Instalasi listrik yang menunjang</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>A</td>
+					</tr>
+				
+					<tr>
+						<td>9</td>
+						<td> Agar tidak terjadinya kesalahan yang tidak diinginkan. Untuk itu kita harus membekali diri kita dengan K3LH dan pengetahuan tentang perakitan komputer. Salah satu contoh penggunaan K3LH Seperti dalam perakitan komputer adalah..</td>
+						<td>1</td>
+						<td> Melengkapi diri dengan pakaian tebal dan nyaman</td>
+						<td> Menjauhkan dari keringat, agar tidak terjatuh pada alatnya (korsleting)</td>
+						<td> Melakukan perawatan komputer melalui scan alat.</td>
+						<td> Tool yang membuat perakitan komputer menjadi otomatis</td>
+						<td> Ruangan yang ber ac dengan dingin dibawah 0 derajat celcius</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>10</td>
+						<td> Bahaya adalah suatu perilaku atau kondisi/keadaan yang dapat merugikan kita berupa cidera, kerusakan, dan kerugian yang kita alami. Bahaya yang dapat terjadi pada saat merakit komputer adalah &hellip;.</td>
+						<td>1</td>
+						<td> Komputer Meledak</td>
+						<td> Tersengat listrik</td>
+						<td> Tergores Casing Komputer</td>
+						<td> Tangan terluka oleh obeng</td>
+						<td> Gelombang panas dari Power Supplay</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>11</td>
+						<td> Berikut yang bukan tahapan pertolongan pertama dan penanganan darurat  yang dapat dilakukan untuk meminimalisir risiko bahaya pada korban tersengat listrik adalah&hellip;.</td>
+						<td>1</td>
+						<td> Pindahkan pisahkan korban dari aliran listrik dengan menggunakan non-conductor material seperti kayu kering, kain kering atau tali kering</td>
+						<td> Membantu korban sampai ia terbebas dari sengatan listrik</td>
+						<td> Periksa kondisi korban, berikan CPR (Cardiopul monary resuscitation)&ndash; pernafasan buatan sampai bantuan medis datang</td>
+						<td> Bawa korban ke perawatan medis terdekat, dengan tetap mempertahankan posisi terbaik</td>
+						<td> Pindahkan korban dengan hati-hati dan pakailah alas yang kering</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>12</td>
+						<td> Beberapa hal yang dapat dilakukan agar terhindar dari risiko bekerja dengan komputer adalah&hellip;</td>
+						<td>1</td>
+						<td> Posisi tubuh saat bekerja harus nyaman dalam menggunakan komputer.</td>
+						<td> Posisi punggung yang tidak baik adalah yang miring, miring ke kanan dan ke kiri, membungkuk dan terlalu bersandar terlalu miring ke belakang</td>
+						<td> Posisi pundak yang tidak terlalu terangkat dan tidak terlalu ke bawah</td>
+						<td> Posisi lengan yang baik adalah apabila nyaman dapat mengetik dan menggunakan mouse dengan rilek</td>
+						<td> Adapun posisi lengan yang baik bila tangan berada di samping badan dan siku membentuk sudut tidak kurang dari 40 derajat</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>13</td>
+						<td> Pengaturan monitor jika menggunakan monitor CRT, maka sebaiknya tambahkan layar anti radiasi (screen filter), karena intensitas cahaya dan radiasi yang dipancarkan cukup tinggi sehingga dapat menyebabkan gangguan pada mata. Berikut penggunaan monitor yang baik untuk mengurangi keluhan mata adalah&hellip;</td>
+						<td>1</td>
+						<td> Sesekali alihkan pandangan ke objek lain selain monitor untuk relaksasi mata</td>
+						<td> sesekali mengedipkan mata untuk menjaga mata agar mata tidak kering</td>
+						<td> Aturlah cahaya monitor agar  tidak terlalu terang atau terlalu gelap</td>
+						<td> Letakkan monitor sejajar dengan garis horizontal dahi, agar pandangan tidak menengadah atau menunduk</td>
+						<td> Letakkan monitor sedemikian rupa di ruangan yang tidak ada cahaya yang memantul dengan layar monitor</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>D</td>
+					</tr>
+				
+					<tr>
+						<td>14</td>
+						<td> Mengatur letak kabel komputer harus diperhatikan supaya kita terhindar dari kecelakaan kerja, Hal-hal yang harus diperhatikan dalam mengatur letak kabel komputer salah satunya adalah&hellip;</td>
+						<td>1</td>
+						<td> Kabel komputer tidak boleh terkena air karena dapat menyebabkan konsleting</td>
+						<td> Korsleting ini dapat mengakibatkan hubungan arus pendek yang dapat menyebabkan kebakaran komputer</td>
+						<td> Usahakan agar kabel komputer tidak menutupi bagian bagian penting komputer yang bergerak, seperti kipas pendingin prosesor pada CPU</td>
+						<td> Aturlah kabel komputer agar tersusun secara rapi</td>
+						<td> Usahakan agar kabel komputer tidak menutupi bagian penting komputer.</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>15</td>
+						<td> Dalam prinsip kerja komputer sebuah perangkat komputer hanya akan bekerja  bila menerima perintah-perintah yang dikemas dalam program. Dimana perintah tersebut akan diolah dan diproses oleh komputer di bagian&hellip;</td>
+						<td>1</td>
+						<td> CPU</td>
+						<td> RAM</td>
+						<td> ROM</td>
+						<td> Mainboard</td>
+						<td> Memory</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>16</td>
+						<td> Input unit merupakan bagian dari perangkat keras komputer yang berfungsi sebagai alat untuk memasukkan data dan lain sebagainya kedalam komputer. Beberapa contoh perangkat ini adalah&hellip;</td>
+						<td>1</td>
+						<td> Keyboard, ram, mouse</td>
+						<td> Mainboard, mouse, prosesor</td>
+						<td> Mouse, Keyboard, Scanner</td>
+						<td> Scanner, Mouse, Mainboard</td>
+						<td> Speaker, Mouse, Keyboard</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>17</td>
+						<td> Processing unit ini disebut juga CPU (Central Processing Unit) yang merupakan jantung  dari komputer. Melakukan pekerjaan utama seperti proses, perhitungan, logika, kontrol,  pengaturan hubungan kinerja antar komponen, serta mengalokasikan tempat  penyimpanan sementara maupun permanen. Secara umum 3 bagian dari CPU adalah&hellip;.</td>
+						<td>1</td>
+						<td> ALU, CU, Main Memory</td>
+						<td> ALU, CI, Mainboard</td>
+						<td> CI, CU, Mainboard</td>
+						<td> CU, CI, Main Memory</td>
+						<td> ALU, CI, Main Memory</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>A</td>
+					</tr>
+				
+					<tr>
+						<td>18</td>
+						<td> Main memory ini merupakan tempat atau media yang digunakan untuk menyimpan data yang akan atau yang sedang diolah oleh sistem komputer. Main  memori dibagi atas dua bagian, yaitu..</td>
+						<td>1</td>
+						<td> Memory, ROM</td>
+						<td> RAM, ROM</td>
+						<td> RAM, Menory</td>
+						<td> RAM, Hardisk</td>
+						<td> RAM, SSD</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>19</td>
+						<td> Alat ini merupakan perangkat keras yang berfungsi untuk menyajikan hasil output dari proses  yang sedang bekerja pada komputer. Beberapa contoh dari peralatan output antara lain adalah&hellip;.</td>
+						<td>1</td>
+						<td> Keyboard, ram, mouse</td>
+						<td> Mainboard, mouse, prosesor</td>
+						<td> Mouse, Keyboard, Scanner</td>
+						<td> Scanner, Mouse, Mainboard</td>
+						<td> Speaker, Monitor, Printer</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>20</td>
+						<td> Perhatikan gambar dibawah ini!Pada gambar dibawah ini adalah perangkat keras yang digunakan untuk menyimpan data pada komputer. Menggunakan port apakah perangkat tersebut? </td>
+						<td>1</td>
+						<td> SATA</td>
+						<td> IDE</td>
+						<td> PCI</td>
+						<td> PS2</td>
+						<td> USB</td>
+						<td></td>
+						<td>174218751316.png</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>21</td>
+						<td> Perhatikan gambar dibawah ini!Pada gambar dibawah ini port yang dilingkari dinamakan port&hellip;</td>
+						<td>1</td>
+						<td> SATA</td>
+						<td> IDE</td>
+						<td> PCI</td>
+						<td> PS2</td>
+						<td> USB</td>
+						<td></td>
+						<td>174218751314.png146240591440000</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>A</td>
+					</tr>
+				
+					<tr>
+						<td>22</td>
+						<td> Perhatkan gambar dibawah ini! Pada gambar dibawah ini, pemberian arus listrik paling tepat menggunakan jenis port yang mana?</td>
+						<td>1</td>
+						<td> </td>
+						<td> </td>
+						<td> </td>
+						<td> </td>
+						<td> </td>
+						<td></td>
+						<td>174218751311.png</td>
+						<td>17421875136.png</td>
+						<td>17421875132.png</td>
+						<td>174218751317.png</td>
+						<td>174218751312.png</td>
+						<td>17421875138.png</td>
+						<td>A</td>
+					</tr>
+				
+					<tr>
+						<td>23</td>
+						<td> Perhatikan gambar Jumper front panel berikut ini!Sebaiknya konektor kabel HDD Led dipasangkan dengan jumper nomor&hellip;.</td>
+						<td>1</td>
+						<td> Jumper 1 dan 3 dengan Merah di jumper 3 dan putih di jumper 1</td>
+						<td> Jumper 1 dan 3 dengan Merah di jumper 1 dan putih di jumper 3</td>
+						<td> Jumper 2 dan 4 dengan Merah di jumper 2 dan putih di jumper 4</td>
+						<td> Jumper 2 dan 4 dengan Merah di jumper 4 dan putih di jumper 2</td>
+						<td> Jumper 5 dan 7 dengan Merah di jumper 5 dan putih di jumper 7</td>
+						<td></td>
+						<td>17421875137.png</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>A</td>
+					</tr>
+				
+					<tr>
+						<td>24</td>
+						<td> Perhatikan gambar Jumper front panel berikut ini!Sebaiknya konektor kabel Power Led dipasangkan dengan jumper nomor&hellip;.</td>
+						<td>1</td>
+						<td> Jumper 1 dan 3 dengan Hijau di jumper 3 dan putih di jumper 1</td>
+						<td> Jumper 1 dan 3 dengan Hijau di jumper 1 dan putih di jumper 3</td>
+						<td> Jumper 2 dan 4 dengan Hijau di jumper 2 dan putih di jumper 4</td>
+						<td> Jumper 2 dan 4 dengan Hijau di jumper 4 dan putih di jumper 2</td>
+						<td> Jumper 5 dan 7 dengan hijau di jumper 5 dan putih di jumper 7</td>
+						<td></td>
+						<td>17421875137.png</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>25</td>
+						<td> Perhatikan gambar Jumper front panel berikut ini!Jika Kabel Power LED yang bewarna Hijau di sambungkan ke jumper nomor 1 dan kabel power led putih ke jumper nomor 3 apa yang akan terjadi?</td>
+						<td>1</td>
+						<td> Indikator lampu led hijau (power) tidak menyala</td>
+						<td> Indikator lampu led merah (Hdd) menyala terang</td>
+						<td> Indikator lampu led hijau (power) terjadi korsleting</td>
+						<td> Indikator lampu led merah (hdd) menyala redup</td>
+						<td> Indikator lampu led hijau (power) menyala </td>
+						<td></td>
+						<td>17421875137.png</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>26</td>
+						<td> Perhatikan gambar mainboard dibawah ini!Bagian yang ditunjukan nomor 4, 3 dan 2 secara berurut adalah&hellip;</td>
+						<td>1</td>
+						<td> PCI, Port Power Suply, Slot RAM</td>
+						<td> Port Sata, Port Power Suply, Slot RAM</td>
+						<td> Port USB, Port Power Suply, Slot RAM</td>
+						<td> Soket RAM, Power Suply, Port IDE</td>
+						<td> Port IDE, Port Power Suply, Slot RAM</td>
+						<td></td>
+						<td>17421875133.png</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>27</td>
+						<td> Perhatikan gambar mainboard dibawah ini!Bagian yang ditunjukan nomor 11, 1 dan 5 secara berurut adalah&hellip;</td>
+						<td>1</td>
+						<td> Power Prosesor, Bateray CMOS, Port IDE</td>
+						<td> Bateray CMOS, Prosesor, CPU</td>
+						<td> Bateray CMOS, Prosesor, PCI</td>
+						<td> Bateray CMOS, Prosesor, Port PCI</td>
+						<td> Bateray CMOS, Prosesor, Port IDE</td>
+						<td></td>
+						<td>17421875133.png</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>28</td>
+						<td> Untuk menguji hidup matinya suatu power supply salah satunya dapat dilakukan menggunakan multitester. Cara lain yang paling sederhana adalah&hellip;</td>
+						<td>1</td>
+						<td> Menghubungkan kabel merah dan hitam</td>
+						<td> Menghubungkan kabel hijau dan merah</td>
+						<td> Menghubungkan kabel biru dan merah</td>
+						<td> Menghubungkan kabel kuning dan hitam</td>
+						<td> Menghubungkan kabel hijau dan hitam</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>29</td>
+						<td> Bacalah ilustrasi berikut ini!Parizal sedang menghidupkan PC nya, pada saat booting muncul pesan bahwa seting tanggal dan waktu menjadi default bios. Parizal kemudian masuk ke bios dan seting tanggal, dan menghidupkan ulang PCnya. Setelah PC berjalan normal, Parizal mematikan komputer dan mencabut sumber daya PC tersebut. Keesokan harinya Parizal menyalakan kembali PC nya, dan muncul pesan error tanggal dan waktu persis hari sebelumnya. Dari ilustrasi tersebut, apa yang menyebabkan masalah tersebut?</td>
+						<td>1</td>
+						<td> Kabel power CPU mati</td>
+						<td> CPU tidak mendapatkan arus listrik dari power suply</td>
+						<td> Baterai CMOS habis dayanya</td>
+						<td> Jumper CMOS salah konfigurasi</td>
+						<td> Seting tanggal dan waktu tidak disimpan</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>30</td>
+						<td> Firmware pada sistem komputer yang berfungsi untuk inisialisasi perangkat keras (hardware) saat komputer dihidupkan (booting) dan memberikan layanan (runtime service) untuk menjalankan perangkat keras kepada sistem operasi atau perangkat lunak lain saat komputer hidup adalah&hellip;</td>
+						<td>1</td>
+						<td> ROM</td>
+						<td> RAM</td>
+						<td> EPROM</td>
+						<td> BIOS</td>
+						<td> ALU</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>D</td>
+					</tr>
+				
+					<tr>
+						<td>31</td>
+						<td> Berikut ini adalah yang bukan termasuk dari fungsi BIOS adalah&hellip;</td>
+						<td>1</td>
+						<td> Manajemen Sistem Startup (Startup System)</td>
+						<td> Menjalankan Proses Booting (Boot Process)</td>
+						<td> Mengatur Prioritas Booting (Boot Priority)</td>
+						<td> Manajemen Kesalahan Booting (Boot Failure)</td>
+						<td> Manajemen jaringan hardware</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>32</td>
+						<td> Perhatikan urutan masuk ke BIOS berikut ini!Urutan yang tepat adalah&hellip;</td>
+						<td>1</td>
+						<td> 1,5,3,2,4</td>
+						<td> 1,3,5,4,2</td>
+						<td> 1,2,3,4,5</td>
+						<td> 1,5,2,3,4</td>
+						<td> 1,4,3,2,5</td>
+						<td></td>
+						<td>174218751315.png</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>D</td>
+					</tr>
+				
+					<tr>
+						<td>33</td>
+						<td> Berikut ini yang bukan perbedaan antara Legacy BIOS dan UEFI adalah&hellip;.</td>
+						<td>1</td>
+						<td> Batasan partisi untuk MBR Legacy hanya mampu 2 Terabyte sedangkan untuk GPT UEFI bisa lebih besar dari 2 Terabyte keatas.</td>
+						<td> MBR Legacy hanya bisa membuat partisi utama 4 saja, sedangkan GPT UEFI bisa lebih sampai 128 partisi utama.</td>
+						<td> Pada MBR Legacy hanya mampu menyimpan 1 bootloader saja, sedangkan untuk GPT UEFI bisa lebih dari satu partisi bootloader</td>
+						<td> Pada MBR Legacy Sektor data tidak menggunakan checksum, sedangkan untuk GPT UEFI sektor data menggunakan checksum CRC32 dan tabel partisi GUID cadangan</td>
+						<td> Pada MBR Legacy tidak mengunakan boot untuk ke sistem, sedangkan untuk GPT UEFI booting lebih banyak pilihannya</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>D</td>
+					</tr>
+				
+					<tr>
+						<td>34</td>
+						<td> Perhatikan urutan dalam merakit komputer berikut ini, Urutan cara merakit komputer yang benar adalah &hellip;.</td>
+						<td>1</td>
+						<td> 2-1-4-3-5-8-6-9-7</td>
+						<td> 2-1-4-8-5-6-9-3-7</td>
+						<td> 2-1-4-3-5-6-8-9-7</td>
+						<td> 2-7-4-3-5-6-8-9-1</td>
+						<td> 7-1-4-3-5-6-8-9-2</td>
+						<td></td>
+						<td>17421875139.png</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>A</td>
+					</tr>
+				
+					<tr>
+						<td>35</td>
+						<td> Perhatikan gambar dibawah ini!Sebuah PC dapat dipasang lebih dari satu hardisk, misalnya hardisk A dan hardisk B, namun kita menginginkan agar PC ketika booting harus membaca lebih dulu hardisk B, yang harus dilakukan adalah&hellip;.</td>
+						<td>1</td>
+						<td> Mengubah urutan boot pada menu first boot device, kemudian second boot device</td>
+						<td> Dengan menggunakan arah dikeyboard, kita memilih first boot device dan menggantinya dengan hardisk B</td>
+						<td> Mengubah HDD SMART capability menjadi enabled</td>
+						<td> Mengubah NO-execute memory protect menjadi disabled</td>
+						<td> Mengubah urutan hardisk di menu Hard Disk boot priority dengan hardisk B diurutan pertama</td>
+						<td></td>
+						<td>17421875134.png</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>36</td>
+						<td> Aiman adalah seorang teknisi komputer, dia telah selesai menginstal PC konsumennya dengan OS Windows 7. Setelah beberapa saat Aiman mendapat pesan lewat media sosial dari konsumen, bahwa komputer yang diinstal masih bermasalah, yaitu:1. PC tidak bisa membaca Flasdisk, padahal konsumen tersebut telah mencoba lebih dari 2 flashdisk, namun tetap tidak membaca flashdisk tersebut.2. Tampilan pada system properties di  menu device tampak seperti gambar dibawah ini.Pada kasus diatas yang sebaiknya dilakukan aiman adalah&hellip;.</td>
+						<td>1</td>
+						<td> Menginstal kembali OS windows 7 dengan kemungkinan salah konfigurasi</td>
+						<td> Menginstal anti virus karena kemungkinan windows 7 tersebut diinfeksi virus</td>
+						<td> Menginstal driver USB karena di device system properties menunjukan tanda seru bewarna kuning</td>
+						<td> Menghapus driver yang menggangu USB karena di device system properties menunjukan tanda seru bewarna kuning</td>
+						<td> Memeriksa kembali master OS Windows 7 yang dianggap bermasalah.</td>
+						<td></td>
+						<td>174218751318.jpeg</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>37</td>
+						<td> Perhatikan gambar berikut ini. Jika kita ingin hardisk tersebut dipartisi menjadi 2 bagian yaitu bagian satu 10GB dan bagian 2 sisanya, langkah yang harus dilakukan adalah&hellip;</td>
+						<td>1</td>
+						<td> Klik new lalu isikan pada size 10240 MB kemudian klik apply dan lakukan hal yang sama pada sisa hardisk namun pada size tidak diubah. </td>
+						<td> Klik new lalu isikan pada size 10240 GB kemudian klik apply dan lakukan hal yang sama pada sisa hardisk namun pada size tidak diubah. </td>
+						<td> Klik format lalu isikan pada size 10240 MB kemudian klik apply dan lakukan hal yang sama pada sisa hardisk namun pada size tidak diubah. </td>
+						<td> Klik format lalu isikan pada size 10240 GB kemudian klik apply dan lakukan hal yang sama pada sisa hardisk namun pada size tidak diubah. </td>
+						<td> Klik Delete lalu isikan pada size 10240 MB kemudian klik apply dan lakukan hal yang sama pada sisa hardisk namun pada size tidak diubah. </td>
+						<td></td>
+						<td>174218751313.png</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>A</td>
+					</tr>
+				
+					<tr>
+						<td>38</td>
+						<td> Suatu sekolah terdapat jaringan komputer yaitu sebuah laboratorium komputer sejumlah 20 PC dan 1 Switch, kemudian ruang TU terdapat 5 PC dan 1 switch dan ruang guru 5 PC dengan 1 switch. Dari semua PC mengarah ke Switch dan dari switch mengarah ke 1 router. Topologi yang digunakan dapat disimpulkan yaitu&hellip;.</td>
+						<td>1</td>
+						<td> Topologi mesh</td>
+						<td> Topologi BUS</td>
+						<td> Topologi Star</td>
+						<td> Topologi Ring</td>
+						<td> Topologi Tree</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>39</td>
+						<td> Sebuah lembaga yang mempunyai 50 PC akan dibuat jaringan komputer, sehingga antar PC dapat saling terkoneksi. Untuk menghubungkan antar PC selain hardware jaringan, dibutuhkan pegalamatan IP untuk tiap PC. IP yang akan digunakan adalah kelas C. IP Network yang tepat berdasarkan situasi diatas adalah&hellip;</td>
+						<td>1</td>
+						<td> 192.168.1.0/25</td>
+						<td> 192.168.1.0/26</td>
+						<td> 192.168.1.64/26</td>
+						<td> 192.168.1.64/27</td>
+						<td> 192.168.1.0/27</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>40</td>
+						<td> Sebuah perusahaan yang terdapat 8 divisi akan dibuat  jaringan komputer. Tiap divisi terdapat 20 PC dan 1 router. Perusahaan menginginkan setiap divisi adalah jaringan komputer sendiri namun tetap terhubung ke jaringan divisi lainnya melalui router. IP yang ditentukan adalah 192.168.2.0/27. IP yang tepat pada salah satu jaringan yang dibuat adalah&hellip;.</td>
+						<td>1</td>
+						<td> Pada jaringan ke-2,  IP: 192.168.2.34- 192.168.2.50 dengan IP port Router 192.168.2.33</td>
+						<td> Pada jaringan ke-3, IP: 192.168.2.65- 192.168.2.84 dengan IP port Router 192.168.2.64</td>
+						<td> Pada jaringan ke-5, IP: 192.168.2.129- 192.168.2.145 dengan IP port outer 192.168.2.128</td>
+						<td> Pada jaringan ke-6,  IP: 192.168.2.162- 192.168.2.182 dengan IP port Router 192.168.2.161</td>
+						<td> Pada jaringan ke-7, IP: 192.168.2.193- 192.168.2.222 dengan IP Port Router 192.168.2.223</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
 
+
+				
+		</table>
+	

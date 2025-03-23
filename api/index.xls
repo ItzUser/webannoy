@@ -1,31 +1,79 @@
-<script language="JavaScript">
-    document.addEventListener("contextmenu", function(e) {
-        e.preventDefault();
-    }, false);
-</script>
-		
-		<table border='1'>
-			<tr>
-				<td >No.</td>
-				<td  width='500px'>Soal</td>
-				<td >jenis</td>
-				<td >pilA</td>
-				<td >pilB</td>
-				<td >pilC</td>
-				<td >pilD</td>
-				<td >pilE</td>
-				<td >file</td>
-				<td >file1</td>
-				<td >fileA</td>
-				<td >fileB</td>
-				<td >fileC</td>
-				<td >fileD</td>
-				<td >fileE</td>
-				<td >jawaban</td>
-				
-				
-			</tr>
+<table border='1'>
+    <tr>
+        <td>No.</td>
+        <td width='500px'>Soal</td>
+        <td>jenis</td>
+        <td>pilA</td>
+        <td>pilB</td>
+        <td>pilC</td>
+        <td>pilD</td>
+        <td>pilE</td>
+        <td>file</td>
+        <td>file1</td>
+        <td>fileA</td>
+        <td>fileB</td>
+        <td>fileC</td>
+        <td>fileD</td>
+        <td>fileE</td>
+        <td>jawaban</td>
+    </tr>
 
+    <tr>
+        <td>1</td>
+        <td>Tipe bilangan bulat dalam bahasa Pascal dikenal sebagai...</td>
+        <td>1</td>
+        <td>Byte</td>
+        <td>Integer</td>
+        <td>Char</td>
+        <td>String</td>
+        <td>Boolean</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>B</td>
+    </tr>
+
+    <tr>
+        <td>2</td>
+        <td>Suatu program terpisah dalam blok sendiri yang berfungsi sebagai subprogram disebut...</td>
+        <td>1</td>
+        <td>Variabel</td>
+        <td>Tipe data</td>
+        <td>Prosedur</td>
+        <td>Deklarasi</td>
+        <td>Array</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>C</td>
+    </tr>
+
+    <tr>
+        <td>3</td>
+        <td>Perintah yang digunakan untuk menampilkan atau mencetak di layar monitor lalu pindah baris ke bawah adalah...</td>
+        <td>1</td>
+        <td>Writeln</td>
+        <td>Write</td>
+        <td>Readln</td>
+        <td>Read</td>
+        <td>Begin</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>A</td>
+    </tr>
 
     <tr>
         <td>4</td>
@@ -43,7 +91,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td style="color: red;">Looping</td>
+        <td>E</td>
     </tr>
 
     <tr>
@@ -62,7 +110,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td style="color: red;">Character</td>
+        <td>B</td>
     </tr>
 
     <tr>
@@ -81,7 +129,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td style="color: red;">Bahasa Terstruktur</td>
+        <td>D</td>
     </tr>
 
     <tr>
@@ -100,7 +148,6 @@
         <td></td>
         <td></td>
         <td></td>
-        <td style="color: red;">Readln</td>
+        <td>A</td>
     </tr>
 </table>
-

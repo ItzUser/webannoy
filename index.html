@@ -19,25 +19,16 @@
 
         .search-container {
             display: flex;
+            flex-wrap: wrap;
             gap: 10px;
             justify-content: center;
             align-items: center;
             box-sizing: border-box;
         }
 
-        .search-bar {
-            width: 60%;
-            padding: 10px;
-            font-size: 16px;
-            border: 2px solid #007bff;
-            border-radius: 5px;
-            background-color: #ffffff;
-            color: #333;
-            box-sizing: border-box;
-        }
-
-        .filter-category {
-            width: 30%;
+        .search-bar, .filter-category {
+            width: 100%;
+            max-width: 400px;
             padding: 10px;
             font-size: 16px;
             border: 2px solid #007bff;
@@ -52,6 +43,7 @@
             border-collapse: collapse;
             margin-top: 10px;
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+            overflow-x: auto;
         }
 
         th {
@@ -76,6 +68,13 @@
 
         tr:hover {
             background-color: #d1ecf1;
+        }
+
+        @media (max-width: 600px) {
+            table, th, td {
+                font-size: 12px;
+                padding: 8px;
+            }
         }
     </style>
 </head>
@@ -106,6 +105,8 @@
         const dataTable = document.getElementById('dataTable').querySelector('tbody');
         const searchInput = document.getElementById('searchInput');
         const categoryFilter = document.getElementById('categoryFilter');
+
+        // Fetch and load data from JSON file disguised as .xls
         fetch('api/index.xls')
             .then(response => response.json())
             .then(data => {
@@ -127,6 +128,8 @@
                 });
             })
             .catch(error => console.error('Gagal memuat file:', error));
+
+        // Search and filter functionality
         function applyFilters() {
             const filter = searchInput.value.toLowerCase();
             const selectedCategory = categoryFilter.value;

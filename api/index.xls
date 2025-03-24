@@ -1,1 +1,162 @@
-
+[
+    {
+        "answer": "IF bersarang",
+        "question": "Bentuk dari suatu statment IF berada di dalam lingkungan statmean IF yang lainya,disebut IF  dalam kondis"
+    },
+    {
+        "answer": "Variabel",
+        "question": "Suatu program terpisah dalam blok sendiri yang berfungsi sebagai sub program (program  bagian), disebut"
+    },
+    {
+        "answer": "Writeln",
+        "question": "Perintah yang digunakan untuk menampilkan atau mencetak dilayar monitor lalu pindah  baris kebawah adalah"
+    },
+    {
+        "answer": "Program_1",
+        "question": "Berikut ini adalah penulisan identifier yang benar dalam pemogramn pascal adalah ..."
+    },
+    {
+        "answer": "Write",
+        "question": "Perintah yang digunakan untuk menampilkan atau cetak dilayar monitor tanpa pindah baris  adalah ."
+    },
+    {
+        "answer": "Deklarasi konstanta",
+        "question": "Deklarasi yang digunakan untuk mengidentifikasikan data yang nilainya sudah ditentukan  dan pasti, tidak dapat dirubah dalam program disebut deklaras"
+    },
+    {
+        "answer": "Variabel",
+        "question": "Suatu indentifier non standar yang nilainya tidak tetap atau nilainya merupakan hasil dari suatu proses, disebut"
+    },
+    {
+        "answer": "Integer",
+        "question": "Tipe bilangan bulat dalam bahasa pascal dikenal sebagi"
+    },
+    {
+        "answer": "Array",
+        "question": "Tipe data terstruktur yang terdiri dari sejumlah komponen, komponen yang mempunyai tipe sama, disebut tipe data"
+    },
+    {
+        "answer": "Writeln",
+        "question": "Prosedur yang digunakan untuk membersihkan layar saat program dijalankan adalah"
+    },
+    {
+        "answer": "End;",
+        "question": "Berikut ini perintah untuk menutup program dalam pascal adalah"
+    },
+    {
+        "answer": "nilai_mahasiswa",
+        "question": "Berikut ini pemberian nama variabel yang benar adalah"
+    },
+    {
+        "answer": "Looping",
+        "question": "Istilah \u201dperulangan\u201c dalam pemograman pascal dikenal dengan istilah"
+    },
+    {
+        "answer": "*",
+        "question": "Berikut ini yang termasuk operator aritmatika adalah"
+    },
+    {
+        "answer": "Character",
+        "question": "Tipe data yang cocok untuk menyimpan data nama siswa adalah"
+    },
+    {
+        "answer": "Flowchart",
+        "question": "Menggambarkan program secara logika merupakan fungsi dar"
+    },
+    {
+        "answer": "NamaGuru",
+        "question": "Berikut ini nama variabel yang benar adalah"
+    },
+    {
+        "answer": "Deklarasi proses",
+        "question": "Di bawah ini yang tidak termasuk deklarasi dalam pascal adalah"
+    },
+    {
+        "answer": "Real",
+        "question": "Bilangan yang mengadung pecahan paling sedikit harus ada satu digit sebelum dan sesudah titik desimal termasuk dalm tipe data"
+    },
+    {
+        "answer": "Array Multi-Dimensi",
+        "question": "Berikut ini yang bukan tipe Array adalah"
+    },
+    {
+        "answer": "CRTL+F9",
+        "question": "Dalam pemograman untuk melihat hasil dari program yang di kerjakan dapat menekan kombinasi tombol keyboard"
+    },
+    {
+        "answer": "a=10, b=10",
+        "question": "Apabila a = 5, b = 10, maka jika di berikan instruksi a = b; b = a akan mengakibatkan"
+    },
+    {
+        "answer": "P tetap",
+        "question": "Instruksi P = Q akan mengakibatkan nilai P = nilai Q, dan nilai Q menjadi"
+    },
+    {
+        "answer": "Membuat Algoritma",
+        "question": "Dalam menyusun suatu program,langkah pertama yang harus di lakkukan adalah"
+    },
+    {
+        "answer": "15 dan 15",
+        "question": "Di berikan algoritma P = 10; P = P + 5; Q = P. Nilai P dan Q masing-masing adalah"
+    },
+    {
+        "answer": "Write",
+        "question": "Perintah dasar dalam program passcal adalah"
+    },
+    {
+        "answer": "Char",
+        "question": "Tipe data pascal untuk karakter adalah"
+    },
+    {
+        "answer": "Unit sytem",
+        "question": "Berikut ini yang merupakan kepanjangan dari USES adalah"
+    },
+    {
+        "answer": "Boolean",
+        "question": "Tipe data bahasa pascal untuk TRUE FALSE adalah"
+    },
+    {
+        "answer": "Algoritma",
+        "question": "Sebuah prosedur langkah demi langkah yang pasti untuk menyelesaikan sebuah masalah di sebut"
+    },
+    {
+        "answer": "Ungu",
+        "question": "Diberikan algoritma : Apabila warna merah maka jadi hijau. Apabila warna hijau maka jadi putih, selain warna merah dan hijau maka jadi ungu. Jika kondisi input warna adalah hitam, maka warna akan menjadi"
+    },
+    {
+        "answer": "1971",
+        "question": "Pada tahun berapakah terbentuknya pemograman pascal"
+    },
+    {
+        "answer": "Uses crt;",
+        "question": "Berikut ini struktur pertama dalam pascal adalah"
+    },
+    {
+        "answer": "10 atau 15",
+        "question": "Diketahui bahwa kantong P kosong. Kantong Q berissi 10 buah kelereng dan kantong R berisi 15 kelereng. Apabila yang terbawa hanya sebuah kantong dan di katakan BUKAN kantong P yang terbawa, Maka jumlah kelereng yang terbawa adalah"
+    },
+    {
+        "answer": "Kondrazuse",
+        "question": "Siapkah yang menemukan program pascal"
+    },
+    {
+        "answer": "Uses crt;",
+        "question": "Struktur bahasa pemograman pascal paling pertama adalah"
+    },
+    {
+        "answer": "Sebelum pembuatan program",
+        "question": "Pada pembuatan program komputer, algoritma dibuat"
+    },
+    {
+        "answer": "Bahasa pemograman",
+        "question": "Berikut ini yang digunakan untuk penulisan algoritma Pseudocode adalah"
+    },
+    {
+        "answer": "3",
+        "question": "Berapakah kode yang digunakan untuk membuat tulisan berwarna \u201cCYAN\u201d"
+    },
+    {
+        "question": "Berikut ini yang merupakan tahapan dalam menyelesaikan suatu masalah adalah",
+        "answer": "Masalah-Model-Algoritma-Program-Eksekusi-hasil"
+    }
+]

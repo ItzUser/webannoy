@@ -3,9 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Apa yh...</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <title>Search Soal</title>
+    <link href="https://cdn.jsdelivr.net/npm/@tabler/core@latest/dist/css/tabler.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.0/dist/sweetalert2.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.7.0/dist/sweetalert2.all.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.1/xlsx.full.min.js"></script>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -14,34 +18,33 @@
         }
 
         .search-container {
-            width: calc(100% - 2px); 
-            margin: auto;
-            position: relative;
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            align-items: center;
             box-sizing: border-box;
         }
 
         .search-bar {
-            width: 100%;
-            padding: 10px 40px 10px 40px; 
+            width: 60%;
+            padding: 10px;
             font-size: 16px;
-            margin-bottom: 10px;
-            border: 2px solid #007bff; 
+            border: 2px solid #007bff;
             border-radius: 5px;
             background-color: #ffffff;
             color: #333;
             box-sizing: border-box;
         }
 
-        .search-bar::placeholder {
-            color: #aaa;
-        }
-
-        .search-icon {
-            position: absolute;
-            left: 10px;
-            top: 50%;
-            transform: translateY(-50%);
-            color: #007bff;
+        .filter-category {
+            width: 30%;
+            padding: 10px;
+            font-size: 16px;
+            border: 2px solid #007bff;
+            border-radius: 5px;
+            background-color: #ffffff;
+            color: #333;
+            box-sizing: border-box;
         }
 
         table {
@@ -51,16 +54,20 @@
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
         }
 
-        th, td {
-            border: 1px solid #dee2e6;
-            padding: 12px;
-            text-align: left;
-        }
-
         th {
             background-color: #007bff;
             color: white;
             font-weight: bold;
+            padding: 12px;
+            text-align: left;
+        }
+
+        td {
+            border: 1px solid #dee2e6;
+            padding: 12px;
+            text-align: left;
+            background-color: #ffffff;
+            color: #333;
         }
 
         tr:nth-child(even) {
@@ -76,13 +83,20 @@
 <body>
     <div class="search-container">
         <input type="text" class="search-bar" id="searchInput" placeholder="Search...">
-        <i class="search-icon fas fa-search"></i>
+        <select id="categoryFilter" class="filter-category">
+            <option value="">Semua Kategori</option>
+            <option value="Pemrograman Dasar">Pemrograman Dasar</option>
+            <option value="Lainnya">Lainnya</option>
+        </select>
     </div>
-    <table id="dataTable">
+
+    <table class="table table-striped table-hover" id="dataTable">
         <thead>
             <tr>
+                <th>No</th>
                 <th>Soal</th>
                 <th>Jawaban</th>
+                <th>Kategori</th>
             </tr>
         </thead>
         <tbody></tbody>
@@ -91,46 +105,48 @@
     <script>
         const dataTable = document.getElementById('dataTable').querySelector('tbody');
         const searchInput = document.getElementById('searchInput');
-
-        // Fetch and load data from Excel
+        const categoryFilter = document.getElementById('categoryFilter');
         fetch('api/index.xls')
-            .then(response => response.blob())
-            .then(blob => blob.arrayBuffer())
+            .then(response => response.json())
             .then(data => {
-                const workbook = XLSX.read(data, { type: 'array' });
-                const sheetName = workbook.SheetNames[0];
-                const sheet = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName]);
+                dataTable.innerHTML = ''; // Clear existing rows
 
-                dataTable.innerHTML = '';
-
-                sheet.forEach(row => {
-                    const soal = row['Soal'] || 'Soal tidak tersedia';
-                    const jawaban = row['jawaban'] ? row['jawaban'].toUpperCase() : 'Jawaban tidak tersedia';
-                    const pilihan = `pil${jawaban}`;
-                    const hasilJawaban = row[pilihan] || 'Jawaban tidak ditemukan';
+                data.forEach((row, index) => {
+                    const soal = row['question'] || 'Soal tidak tersedia';
+                    const jawaban = row['answer'] || 'Jawaban tidak tersedia';
+                    const kategori = index < 40 ? 'Pemrograman Dasar' : 'Lainnya';
 
                     dataTable.innerHTML += `
                         <tr>
+                            <td>${index + 1}</td>
                             <td>${soal}</td>
-                            <td>${hasilJawaban}</td>
+                            <td>${jawaban}</td>
+                            <td>${kategori}</td>
                         </tr>
                     `;
                 });
             })
             .catch(error => console.error('Gagal memuat file:', error));
-
-        searchInput.addEventListener('input', () => {
+        function applyFilters() {
             const filter = searchInput.value.toLowerCase();
+            const selectedCategory = categoryFilter.value;
             const rows = dataTable.getElementsByTagName('tr');
 
             for (let i = 0; i < rows.length; i++) {
                 const cells = rows[i].getElementsByTagName('td');
                 if (cells.length > 0) {
-                    const soalText = cells[0].textContent.toLowerCase();
-                    rows[i].style.display = soalText.includes(filter) ? '' : 'none';
+                    const soalText = cells[1].textContent.toLowerCase();
+                    const categoryText = cells[3].textContent;
+                    const matchesSearch = soalText.includes(filter);
+                    const matchesCategory = selectedCategory === '' || categoryText === selectedCategory;
+
+                    rows[i].style.display = matchesSearch && matchesCategory ? '' : 'none';
                 }
             }
-        });
+        }
+
+        searchInput.addEventListener('input', applyFilters);
+        categoryFilter.addEventListener('change', applyFilters);
     </script>
 </body>
 </html>
